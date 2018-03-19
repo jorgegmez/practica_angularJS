@@ -1,0 +1,43 @@
+{
+  "name": "practica_angularjs",
+  "version": "1.0.0",
+  "description": "Practicar la arquitectura de AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgegmez/practica_angularJS.git"
+  },
+  "keywords": [
+    "MEAN",
+    "ANGULARJS",
+    "BOOTSTRAP4",
+    "JQUERY",
+    "NODEJS"
+  ],
+  "author": "Jorge Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgegmez/practica_angularJS/issues"
+  },
+  "homepage": "https://github.com/jorgegmez/practica_angularJS#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.15",
+    "angular": "^1.6.9",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "oclazyload": "^1.1.0",
+    "popper.js": "^1.14.1",
+    "sweetalert": "^2.1.0",
+    "ui-router-page-title": "^1.0.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-todo": "^5.4.0"
+  }
+}
