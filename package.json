@@ -2,7 +2,7 @@
   "name": "practica_angularjs",
   "version": "1.0.0",
   "description": "Practicar la arquitectura de AngularJS",
-  "main": "index.js",
+  "main": "./public/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
